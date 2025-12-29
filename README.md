@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on full  stack development
+Learning
 
 
 ## 🌐 Socials:
